@@ -16,7 +16,7 @@ helpFunction()
 
 
 author(){
-    email='E-mail: <>'
+    email='E-mail: '
     if [ "$1" ];
     then
         FULL_NAME="$1 $2"
